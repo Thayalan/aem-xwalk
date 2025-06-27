@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-xwalk-thaya/:/",
-    "/content/aem-xwalk-thaya/configuration:/.helix/config.json",
-    "/content/aem-xwalk-thaya/metadata:/metadata.json"
+    "/content/aem-xwalk-thayalan/:/",
+    "/content/aem-xwalk-thayalan/configuration:/.helix/config.json",
+    "/content/aem-xwalk-thayalan/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-xwalk-thaya/"
+    "/content/aem-xwalk-thayalan/"
   ]
 }
