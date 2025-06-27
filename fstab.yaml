@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p139816-e1420456.adobeaemcloud.com/bin/franklin.delivery/Thayalan/aem-xwalk/main"
+    url: "https://author-p139816-e1420456.adobeaemcloud.com/bin/franklin.delivery/Thayalan/aem-xwalk-thaya/main"
     type: "markup"
     suffix: ".html"
